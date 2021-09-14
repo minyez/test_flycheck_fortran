@@ -34,7 +34,7 @@ To go to the definition, try `evil-goto-definition` with cursor at the object.
 
 ## TODO
 
-- [ ] `fortls` configuraiton
+- [ ] `fortls` configuration
 
 ## References
 
