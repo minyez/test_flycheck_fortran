@@ -4,7 +4,7 @@
 
 ```shell
 mkdir -p build && cd build
-cmake .. & make
+cmake .. && make
 ```
 
 ## flycheck
